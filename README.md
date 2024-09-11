@@ -9,6 +9,7 @@
     <header>
         <h1>Proyecto Evaluación 1</h1>
         <p>Machine Learning</p>
+        <p>Kein Triviños Fuentealba y Rogert Flores Opazo.</p>
     </header>
     <div class="container">
         <div class="section">
