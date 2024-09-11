@@ -18,11 +18,12 @@
             <div class="question">
                 <strong>a)</strong> ¿Qué características influyen más en el valor de una casa?
                 <img src="https://github.com/user-attachments/assets/a5394bbd-7fd9-402d-8b4a-1354451789e6" alt="Características que influyen en el valor de una casa">
-                <p></p>
+                <p>Las características más influyentes en el valor de una casa son el ingreso medio, el número de dormitorios, y la proximidad al océano</p>
             </div>
             <div class="question">
                 <strong>b)</strong> ¿Cuál es la precisión del algoritmo generado?
                 <img src="https://github.com/user-attachments/assets/0797864a-e574-4489-9e0c-be46a409c9c5" alt="Precisión del algoritmo">
+                <p>El valor de es aproximadamente 0.65, lo que significa que el modelo explica alrededor del 64.88% de la variabilidad en los valores de las casas. Esto sugiere que el modelo tiene una capacidad razonable para ajustar los datos y predecir los valores, aunque no es perfecto.</p>
             </div>
             <div class="question">
                 <strong>c)</strong> Usar las métricas de evaluación del algoritmo: error absoluto medio, error cuadrático medio, puntaje r al cuadrado, la raíz del error cuadrático medio, para evaluar el modelo y explicar su interpretación.
@@ -36,10 +37,12 @@
             <div class="question">
                 <strong>a)</strong> Justificar el modelo que utilizó.
                 <img src="https://github.com/user-attachments/assets/65fae682-4a1c-4335-92eb-5cb50d575a08" alt="Modelo utilizado">
+                <p>Hemos optado por el clasificador Naive Bayes porque es particularmente eficaz para problemas de clasificación donde los datos se pueden modelar como distribuciones probabilísticas simples.</p>
             </div>
             <div class="question">
                 <strong>b)</strong> ¿Qué características afectan más en que un correo sea Spam?
                 <img src="https://github.com/user-attachments/assets/439484f4-ae5a-4e9f-819a-549fc7fc0172" alt="Características del correo Spam">
+                <p>Las características que más influyen en la clasificación de un correo como spam incluyen palabras como 'free', 'money', 'business' y símbolos como '$', así como el uso de letras en mayúsculas o secuencias largas de caracteres. Estas características son comunes en correos no deseados y, por lo tanto, son fuertes indicadores.</p>
             </div>
             <div class="question">
                 <strong>c)</strong> Usar las métricas: Tasa de Error, Exactitud, Matriz de confusión, tasa de positivos verdaderos, tasa de positivos falsos, Precisión, F1-Score. Investigar cuál(es) de estas métricas es más acertada para este caso y explicar su interpretación.
