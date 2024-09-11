@@ -18,6 +18,7 @@
             <div class="question">
                 <strong>a)</strong> ¿Qué características influyen más en el valor de una casa?
                 <img src="https://github.com/user-attachments/assets/a5394bbd-7fd9-402d-8b4a-1354451789e6" alt="Características que influyen en el valor de una casa">
+                <p></p>
             </div>
             <div class="question">
                 <strong>b)</strong> ¿Cuál es la precisión del algoritmo generado?
