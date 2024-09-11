@@ -28,6 +28,7 @@
             <div class="question">
                 <strong>c)</strong> Usar las métricas de evaluación del algoritmo: error absoluto medio, error cuadrático medio, puntaje r al cuadrado, la raíz del error cuadrático medio, para evaluar el modelo y explicar su interpretación.
                 <img src="https://github.com/user-attachments/assets/4a89fea5-32ed-4c27-9181-a6ca7a912abf" alt="Métricas de evaluación">
+                <p>El MAE mide el promedio de los errores absolutos entre las predicciones y los valores reales, siendo fácil de interpretar, donde un valor bajo indica mayor precisión. El MSE también mide el error, pero al elevar al cuadrado las diferencias, penaliza más los errores grandes, útil para evitar outliers, mientras que el RMSE es la raíz del MSE, ofreciendo una interpretación en las mismas unidades que los datos. Finalmente, el R² evalúa qué tan bien el modelo explica la variabilidad de los datos, donde un valor cercano a 1 refleja un buen ajuste general del modelo.</p>
             </div>
         </div>
         <div class="section">
@@ -47,7 +48,7 @@
             <div class="question">
                 <strong>c)</strong> Usar las métricas: Tasa de Error, Exactitud, Matriz de confusión, tasa de positivos verdaderos, tasa de positivos falsos, Precisión, F1-Score. Investigar cuál(es) de estas métricas es más acertada para este caso y explicar su interpretación.
                 <img src="https://github.com/user-attachments/assets/8a7e0d24-5508-4295-bd45-a781bf9e400a" alt="Métricas de clasificación de correos electrónicos">
-                <p>El MAE mide el promedio de los errores absolutos entre las predicciones y los valores reales, siendo fácil de interpretar, donde un valor bajo indica mayor precisión. El MSE también mide el error, pero al elevar al cuadrado las diferencias, penaliza más los errores grandes, útil para evitar outliers, mientras que el RMSE es la raíz del MSE, ofreciendo una interpretación en las mismas unidades que los datos. Finalmente, el R² evalúa qué tan bien el modelo explica la variabilidad de los datos, donde un valor cercano a 1 refleja un buen ajuste general del modelo.</p>
+                <p>El F1-Score es la métrica más adecuada en este caso porque proporciona un equilibrio entre precisión y recall, crucial para problemas de clasificación donde tanto minimizar falsos positivos como falsos negativos es importante.</p>
             </div>
         </div>
         <div class="section">
