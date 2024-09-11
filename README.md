@@ -71,6 +71,7 @@
            <div class="question">
                 <strong>a)</strong> ¿Qué kernel sería más adecuado para abordar este problema? Justifique su respuesta.
                 <img src="https://github.com/user-attachments/assets/2b797019-3797-4f0d-884c-6f9d0a3dae25" alt="Kernel adecuado para el problema de SVM">
+               <p>El kernel RBF es una buena opción inicial porque es versátil y puede capturar tanto patrones lineales como no lineales en los datos. Si el rendimiento de las métricas de precisión, F1, recall y exactitud es adecuado con este kernel, probablemente sea la elección correcta para este problema.</p>
             </div>
             <div class="question">
                 <strong>b)</strong> Comparar las métricas de: Precisión, Puntaje-F1, Puntaje Recall y Exactitud, explique cuál se ajusta mejor para medir la calidad del modelo y por qué.
