@@ -62,11 +62,13 @@
             <h2>Problema 4: Detección de Transacciones Fraudulentas</h2>
             <p><strong>Descripción:</strong> Detectar si una transacción bancaria es fraudulenta o no, basado en patrones de transacciones históricas.</p>
             <p><strong>DataSet:</strong> <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcard" target="_blank">transacción bancaria</a></p>
-            <div class="question">
+           <div class="question">
                 <strong>a)</strong> ¿Qué kernel sería más adecuado para abordar este problema? Justifique su respuesta.
+                <img src="https://github.com/user-attachments/assets/2b797019-3797-4f0d-884c-6f9d0a3dae25" alt="Kernel adecuado para el problema de SVM">
             </div>
             <div class="question">
                 <strong>b)</strong> Comparar las métricas de: Precisión, Puntaje-F1, Puntaje Recall y Exactitud, explique cuál se ajusta mejor para medir la calidad del modelo y por qué.
+                <img src="https://github.com/user-attachments/assets/66634b39-d9cb-4875-a31a-0fcccb5bf264" alt="Métricas de evaluación del modelo">
             </div>
         </div>
     </div>
