@@ -56,10 +56,12 @@
             <div class="question">
                 <strong>a)</strong> ¿Cuál película recomendarían si se quiere ver una película de terror?
                 <img src="https://github.com/user-attachments/assets/3f3fcf72-0917-46bc-ad14-722970fa60d4" alt="Recomendación de película de terror">
+                <p>"Female Vampire (Les avaleuses) (Erotic Kill) (1973)" es una recomendación interesante para los amantes del cine de terror porque combina elementos de terror psicológico y erotismo, característica del estilo único de su director, Jesús Franco. La película se destaca por su atmósfera inquietante y su enfoque en la figura de un vampiro femenino, lo que la hace una opción intrigante para quienes buscan una experiencia de terror diferente, con un toque más experimental y provocador.</p>
             </div>
             <div class="question">
                 <strong>b)</strong> ¿Qué película recomendarían si mi última película fue Toy Story?
                 <img src="https://github.com/user-attachments/assets/6d0a7459-5ed5-458d-8f10-ae3ec543fb08" alt="Recomendación después de Toy Story">
+                <p>"Monsters, Inc." (2001) de Pixar, tiene un enfoque en la amistad y el trabajo en equipo con un toque de comedia y aventura. </p>
             </div>
         </div>
         <div class="section">
@@ -73,6 +75,7 @@
             <div class="question">
                 <strong>b)</strong> Comparar las métricas de: Precisión, Puntaje-F1, Puntaje Recall y Exactitud, explique cuál se ajusta mejor para medir la calidad del modelo y por qué.
                 <img src="https://github.com/user-attachments/assets/66634b39-d9cb-4875-a31a-0fcccb5bf264" alt="Métricas de evaluación del modelo">
+                <p>Dado que el recall es bajo y el F1 también es moderado, si hay un desbalance de clases, el Puntaje F1 sería la mejor métrica para evaluar el rendimiento global del modelo, ya que tiene en cuenta tanto la precisión como el recall.</p>
             </div>
         </div>
     </div>
